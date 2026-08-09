@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Color xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <A>255</A>
+  <R>0</R>
+  <G>0</G>
+  <B>0</B>
+  <ScA>1</ScA>
+  <ScR>0</ScR>
+  <ScG>0</ScG>
+  <ScB>0</ScB>
+</Color>
