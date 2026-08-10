@@ -1,0 +1,13 @@
+Primary data and calculations
+- F:\CodexProjects\光斑图片\outputs\cylindrical_lens_d4sigma_20260810\source_d4sigma_consolidated.csv
+- F:\CodexProjects\光斑图片\outputs\cylindrical_lens_d4sigma_20260810\fit_summary.csv
+- F:\CodexProjects\光斑图片\outputs\cylindrical_lens_d4sigma_20260810\design_summary.csv
+- F:\CodexProjects\光斑图片\outputs\cylindrical_lens_d4sigma_20260810\model_curves.csv
+- F:\CodexProjects\光斑图片\outputs\cylindrical_lens_d4sigma_20260810\方案说明.md
+
+External engineering reference
+- LASER COMPONENTS, ZnSe lenses for CO2 lasers: https://www.lasercomponents.com/en/product/znse-lenses-for-co2-lasers/
+  Used only for the ZnSe / 10.6 µm AR material-selection statement.
+
+Method note
+- After-cylinder M2 is shown unchanged because a lossless first-order thin cylindrical lens preserves the second-moment determinant for its powered axis. The caustic waist and divergence change, while their product and M2 remain invariant in this model.

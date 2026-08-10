@@ -1,0 +1,382 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/nyq1gg",
+    "id": "nyq1gg",
+    "slide": 1,
+    "layoutId": "8178ae65-636d-4189-a74d-0ab98401bcde",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "d9de8c71-86ee-4edf-95fd-ac9b39ffbc40",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "8178ae65-636d-4189-a74d-0ab98401bcde",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "d9de8c71-86ee-4edf-95fd-ac9b39ffbc40",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "d9de8c71-86ee-4edf-95fd-ac9b39ffbc40",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lsrux4z6",
+      "id": "1",
+      "name": "cover-eyebrow",
+      "bbox": [
+        42,
+        42,
+        650,
+        42
+      ],
+      "geometry": "rect",
+      "text": "D4σ / M² CAUSTIC ANALYSIS",
+      "textPreview": "D4σ / M² CAUSTIC ANALYSIS",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#5F6670",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "D4σ / M² CAUSTIC ANALYSIS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "D4σ / M² CAUSTIC ANALYSIS",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#5F6670",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "D4σ / M² CAUSTIC ANALYSIS",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#5F6670",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y50b2pgf",
+      "id": "2",
+      "name": "cover-title",
+      "bbox": [
+        42,
+        175,
+        900,
+        250
+      ],
+      "geometry": "rect",
+      "text": "D4σ 椭圆率与\n柱面镜修正方案",
+      "textPreview": "D4σ 椭圆率与 | 柱面镜修正方案",
+      "resolvedFontSize": 76,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 76,
+        "typeface": "Microsoft YaHei",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "D4σ 椭圆率与"
+          },
+          {
+            "index": 2,
+            "text": "柱面镜修正方案"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "D4σ 椭圆率与",
+          "resolvedTextStyle": {
+            "fontSize": 76,
+            "typeface": "Microsoft YaHei",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "D4σ 椭圆率与",
+              "fontSize": 76,
+              "typeface": "Microsoft YaHei",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "柱面镜修正方案",
+          "resolvedTextStyle": {
+            "fontSize": 76,
+            "typeface": "Microsoft YaHei",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "柱面镜修正方案",
+              "fontSize": 76,
+              "typeface": "Microsoft YaHei",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zq9cvuh0",
+      "id": "3",
+      "name": "cover-rule",
+      "bbox": [
+        42,
+        468,
+        420,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#3D8DFF",
+      "lineWidth": 5
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c3it0zy9",
+      "id": "4",
+      "name": "cover-subtitle",
+      "bbox": [
+        42,
+        500,
+        980,
+        52
+      ],
+      "geometry": "rect",
+      "text": "+50 mm ZnSe 柱面镜 · z≈219.43 mm · 焦区最大轴比≈1.256",
+      "textPreview": "+50 mm ZnSe 柱面镜 · z≈219.43 mm · 焦区最大轴比≈1.256",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 30,
+        "typeface": "Microsoft YaHei",
+        "color": "#111111",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "+50 mm ZnSe 柱面镜 · z≈219.43 mm · 焦区最大轴比≈1.256"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "+50 mm ZnSe 柱面镜 · z≈219.43 mm · 焦区最大轴比≈1.256",
+          "resolvedTextStyle": {
+            "fontSize": 30,
+            "typeface": "Microsoft YaHei",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "+50 mm ZnSe 柱面镜 · z≈219.43 mm · 焦区最大轴比≈1.256",
+              "fontSize": 30,
+              "typeface": "Microsoft YaHei",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d4rut4zu",
+      "id": "5",
+      "name": "cover-method",
+      "bbox": [
+        42,
+        580,
+        760,
+        36
+      ],
+      "geometry": "rect",
+      "text": "基于原始 CSV 的二阶矩焦散拟合与薄透镜传播",
+      "textPreview": "基于原始 CSV 的二阶矩焦散拟合与薄透镜传播",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "color": "#5F6670",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "基于原始 CSV 的二阶矩焦散拟合与薄透镜传播"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "基于原始 CSV 的二阶矩焦散拟合与薄透镜传播",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#5F6670",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "基于原始 CSV 的二阶矩焦散拟合与薄透镜传播",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#5F6670",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

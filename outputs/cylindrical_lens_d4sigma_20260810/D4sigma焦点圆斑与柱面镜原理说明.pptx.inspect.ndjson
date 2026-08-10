@@ -1,0 +1,149 @@
+{"kind":"deck","id":"pr/808lme","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"D4σ / M² CAUSTIC ANALYSIS","textShapes":4}
+{"kind":"textbox","id":"sh/ts7md4r2","slide":1,"name":"cover-eyebrow","text":"D4σ / M² CAUSTIC ANALYSIS","textPreview":"D4σ / M² CAUSTIC ANALYSIS","textChars":25,"textLines":1,"bbox":[42,42,650,42]}
+{"kind":"textbox","id":"sh/547294r6","slide":1,"name":"cover-title","text":"焦点优先的 D4σ 椭圆率\n柱面镜修正方案","textPreview":"焦点优先的 D4σ 椭圆率 | 柱面镜修正方案","textChars":21,"textLines":2,"bbox":[42,175,900,250]}
+{"kind":"shape","id":"sh/k3yl0zql","slide":1,"name":"cover-rule","bbox":[42,468,420,0]}
+{"kind":"textbox","id":"sh/7qp4be9c","slide":1,"name":"cover-subtitle","text":"+25.4 mm ZnSe 柱面镜 · z≈222.62 mm · 焦点椭圆率≈1.000","textPreview":"+25.4 mm ZnSe 柱面镜 · z≈222.62 mm · 焦点椭圆率≈1.000","textChars":45,"textLines":1,"bbox":[42,500,980,52]}
+{"kind":"textbox","id":"sh/65g3298r","slide":1,"name":"cover-method","text":"目标：不追求整段最优，只让 z≈235.32 mm 的焦点附近接近圆斑","textPreview":"目标：不追求整段最优，只让 z≈235.32 mm 的焦点附近接近圆斑","textChars":35,"textLines":1,"bbox":[42,580,760,36]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"本版将优化目标改为焦点附近圆斑，主方案由 +50 mm 宽区间方案切换为 +25.4 mm 单点匹配方案。\n\n[Sources]\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/fit_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/design_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/model_curves.csv"}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"焦点附近可做到 1.000；代价是离焦后更快变椭圆","textShapes":9}
+{"kind":"textbox","id":"sh/ahwrqhgj","slide":2,"name":"slide-2-title","text":"焦点附近可做到 1.000；代价是离焦后更快变椭圆","textPreview":"焦点附近可做到 1.000；代价是离焦后更快变椭圆","textChars":25,"textLines":1,"bbox":[42,34,1185,72]}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"name":"slide-2-number","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[1178,660,52,20]}
+{"kind":"textbox","id":"sh/ozy1ofad","slide":2,"name":"summary-explanation","text":"柱面镜只修正 X 方向：把 X 束腰直径和束腰位置同时对齐 Y 方向。由于 M² 不变，X 发散角必须增大，因此本方案专门服务于焦点附近，而不是 220–250 mm 整段。","textPreview":"柱面镜只修正 X 方向：把 X 束腰直径和束腰位置同时对齐 Y 方向。由于 M² 不变，X 发散角必须增大，因此本方案专门服务于焦点附近，而不是 220–250 mm 整段。","textChars":87,"textLines":1,"bbox":[42,122,1170,92]}
+{"kind":"shape","id":"sh/b29kza94","slide":2,"name":"metric-panel-1","bbox":[42,315,375,300]}
+{"kind":"shape","id":"sh/a10jqpsj","slide":2,"name":"metric-accent-1","bbox":[42,315,12,300]}
+{"kind":"textbox","id":"sh/x4r21kru","slide":2,"name":"metric-stat-1","text":"≈1.000","textPreview":"≈1.000","textChars":6,"textLines":1,"bbox":[72,375,320,105]}
+{"kind":"textbox","id":"sh/w3i1sfa9","slide":2,"name":"metric-label-1","text":"z≈235.32 mm 焦点椭圆率","textPreview":"z≈235.32 mm 焦点椭圆率","textChars":17,"textLines":1,"bbox":[72,515,320,70]}
+{"kind":"shape","id":"sh/r65knqtk","slide":2,"name":"metric-panel-2","bbox":[453,315,375,300]}
+{"kind":"shape","id":"sh/q5wjelsz","slide":2,"name":"metric-accent-2","bbox":[453,315,12,300]}
+{"kind":"textbox","id":"sh/ove9o7yd","slide":2,"name":"metric-stat-2","text":"515 / 515 µm","textPreview":"515 / 515 µm","textChars":12,"textLines":1,"bbox":[483,375,320,105]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"metric-label-2","text":"焦点 X / Y 的 D4σ 直径","textPreview":"焦点 X / Y 的 D4σ 直径","textChars":17,"textLines":1,"bbox":[483,515,320,70]}
+{"kind":"shape","id":"sh/mtwrmxg7","slide":2,"name":"metric-panel-3","bbox":[864,315,375,300]}
+{"kind":"shape","id":"sh/nu58f2hs","slide":2,"name":"metric-accent-3","bbox":[864,315,12,300]}
+{"kind":"textbox","id":"sh/wjy9sry9","slide":2,"name":"metric-stat-3","text":"+25.4 mm","textPreview":"+25.4 mm","textChars":8,"textLines":1,"bbox":[894,375,320,105]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"metric-label-3","text":"标准 ZnSe 柱面镜；距焦点 12.70 mm","textPreview":"标准 ZnSe 柱面镜；距焦点 12.70 mm","textChars":24,"textLines":1,"bbox":[894,515,320,70]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"三项数字概括焦点优先方案：焦点轴比约 1，两个方向束腰约 515 µm，镜片位于焦点前约 12.70 mm。\n\n[Sources]\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/fit_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/design_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/model_curves.csv"}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"焦点附近轴比接近 1；离开焦点后按设计允许回升","textShapes":6}
+{"kind":"textbox","id":"sh/n6ls3alk","slide":3,"name":"slide-3-title","text":"焦点附近轴比接近 1；离开焦点后按设计允许回升","textPreview":"焦点附近轴比接近 1；离开焦点后按设计允许回升","textChars":23,"textLines":1,"bbox":[42,34,1185,72]}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"name":"slide-3-number","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[1178,660,52,20]}
+{"kind":"textbox","id":"sh/298ryl4v","slide":3,"name":"limit-heading","text":"焦点优先的判据","textPreview":"焦点优先的判据","textChars":7,"textLines":1,"bbox":[880,165,340,48]}
+{"kind":"textbox","id":"sh/3ah8rqlg","slide":3,"name":"limit-body","text":"让 X、Y 束腰在同一位置出现，且两者 D4σ 束腰直径相同。\n\n不要求远离焦点后仍保持圆斑。","textPreview":"让 X、Y 束腰在同一位置出现，且两者 D4σ 束腰直径相同。 |  | 不要求远离焦点后仍保持圆斑。","textChars":47,"textLines":3,"bbox":[880,235,330,132]}
+{"kind":"shape","id":"sh/obq90bml","slide":3,"name":"limit-panel","bbox":[880,390,330,125]}
+{"kind":"textbox","id":"sh/pcjqtg36","slide":3,"name":"limit-formula","text":"ε(235.3) ≈ 1.000","textPreview":"ε(235.3) ≈ 1.000","textChars":16,"textLines":1,"bbox":[905,412,280,82]}
+{"kind":"textbox","id":"sh/m5cra54z","slide":3,"name":"limit-conclusion","text":"模型预测：z≈230 mm 为 1.124；z≈240 mm 为 1.088；±10 mm 最差约 1.274。","textPreview":"模型预测：z≈230 mm 为 1.124；z≈240 mm 为 1.088；±10 mm 最差约 1.274。","textChars":56,"textLines":1,"bbox":[880,548,330,66]}
+{"kind":"chart","id":"ch/7idk7y9c","slide":3,"name":"Chart","chartType":"line","bbox":[42,145,800,480]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"绿色曲线显示单点匹配的典型形状：在焦点处达到约 1，随后因 X 发散更大而上升。+50 mm 方案仍适合要求整段均衡的场景，但不是本版主方案。\n\n[Sources]\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/fit_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/design_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/model_curves.csv"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"柱面镜只有一个有光焦度方向：X 被改写，Y 保持不变","textShapes":11}
+{"kind":"textbox","id":"sh/jm5gze1g","slide":4,"name":"slide-5-title","text":"柱面镜只有一个有光焦度方向：X 被改写，Y 保持不变","textPreview":"柱面镜只有一个有光焦度方向：X 被改写，Y 保持不变","textChars":26,"textLines":1,"bbox":[42,34,1185,72]}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"name":"slide-5-number","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[1178,660,52,20]}
+{"kind":"shape","id":"sh/0ba143al","slide":4,"name":"optical-axis","bbox":[90,350,1080,0]}
+{"kind":"shape","id":"sh/rm1k7yt4","slide":4,"name":"beam-upper-1","bbox":[165,245,348,70]}
+{"kind":"shape","id":"sh/ql8jytsj","slide":4,"name":"beam-lower-1","bbox":[165,385,348,70]}
+{"kind":"shape","id":"sh/doj29oba","slide":4,"name":"beam-upper-2","bbox":[513,315,325,35]}
+{"kind":"shape","id":"sh/sna103ap","slide":4,"name":"beam-lower-2","bbox":[513,350,325,35]}
+{"kind":"shape","id":"sh/3ihk3et8","slide":4,"name":"beam-upper-3","bbox":[838,350,55,45]}
+{"kind":"shape","id":"sh/ih8ju9sn","slide":4,"name":"beam-lower-3","bbox":[838,305,55,45]}
+{"kind":"shape","id":"sh/kbm987y5","slide":4,"name":"distance-bracket","bbox":[0,0,1,1]}
+{"kind":"shape","id":"sh/5cva1cfq","slide":4,"name":"x-power-arrow","bbox":[0,0,1,1]}
+{"kind":"shape","id":"sh/i94r6xgz","slide":4,"name":"y-axis-line","bbox":[0,0,1,1]}
+{"kind":"shape","id":"sh/jadsz2xk","slide":4,"name":"existing-optics","bbox":[150,220,28,260]}
+{"kind":"shape","id":"sh/w72947yt","slide":4,"name":"cylindrical-lens","bbox":[500,225,26,250]}
+{"kind":"shape","id":"sh/x8vaxsfe","slide":4,"name":"focus-point","bbox":[825,337,24,24]}
+{"kind":"shape","id":"sh/a5kr2xg3","slide":4,"name":"camera-scan","bbox":[900,185,300,300]}
+{"kind":"textbox","id":"sh/v6tsv2xo","slide":4,"name":"existing-label","text":"入射束\n两个主轴独立传播","textPreview":"入射束 | 两个主轴独立传播","textChars":12,"textLines":2,"bbox":[80,150,205,64]}
+{"kind":"textbox","id":"sh/g36tgryd","slide":4,"name":"lens-label","text":"柱面镜\n曲率只沿 X","textPreview":"柱面镜 | 曲率只沿 X","textChars":10,"textLines":2,"bbox":[410,150,210,64]}
+{"kind":"textbox","id":"sh/h4fa9wfy","slide":4,"name":"lens-z-label","text":"母线沿 Y：无光焦度\n功率方向沿 X：1/fc","textPreview":"母线沿 Y：无光焦度 | 功率方向沿 X：1/fc","textChars":23,"textLines":2,"bbox":[365,500,315,62]}
+{"kind":"textbox","id":"sh/p0batw72","slide":4,"name":"focus-label","text":"X 束腰被移动并缩小\n与 Y 束腰重合","textPreview":"X 束腰被移动并缩小 | 与 Y 束腰重合","textChars":19,"textLines":2,"bbox":[710,150,230,64]}
+{"kind":"shape","id":"sh/oz29krqh","slide":4,"name":"distance-label","bbox":[0,0,1,1]}
+{"kind":"textbox","id":"sh/3ytsrmpw","slide":4,"name":"camera-label","text":"等效关系","textPreview":"等效关系","textChars":4,"textLines":1,"bbox":[955,205,190,38]}
+{"kind":"shape","id":"sh/2xkrih8b","slide":4,"name":"orientation-panel","bbox":[900,185,300,300]}
+{"kind":"textbox","id":"sh/1wbapc7q","slide":4,"name":"orientation-title","text":"q 参数表示","textPreview":"q 参数表示","textChars":6,"textLines":1,"bbox":[935,255,220,34]}
+{"kind":"shape","id":"sh/gv29g7q5","slide":4,"name":"orientation-x-visible","bbox":[0,0,1,1]}
+{"kind":"shape","id":"sh/fu9sn2p0","slide":4,"name":"orientation-y-visible","bbox":[0,0,1,1]}
+{"kind":"shape","id":"sh/et0reh8f","slide":4,"name":"orientation-cylinder-icon","bbox":[0,0,1,1]}
+{"kind":"textbox","id":"sh/tsrqlc7u","slide":4,"name":"x-orientation-label","text":"1/qx,out = 1/qx,in − 1/fc","textPreview":"1/qx,out = 1/qx,in − 1/fc","textChars":25,"textLines":1,"bbox":[930,315,240,44]}
+{"kind":"textbox","id":"sh/sri9s7q9","slide":4,"name":"y-orientation-label","text":"qy,out = qy,in","textPreview":"qy,out = qy,in","textChars":14,"textLines":1,"bbox":[930,385,240,34]}
+{"kind":"textbox","id":"sh/ilwf69kv","slide":4,"name":"coordinate-note","text":"实际光束 M²X≠M²Y，因此计算采用 D4σ 二阶矩矩阵；q 参数只用于直观说明单轴光焦度。","textPreview":"实际光束 M²X≠M²Y，因此计算采用 D4σ 二阶矩矩阵；q 参数只用于直观说明单轴光焦度。","textChars":47,"textLines":1,"bbox":[42,610,820,58]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"柱面镜沿一个横向方向具有曲率和光焦度，正交方向等效为平板。将柱面母线沿 Y 放置，则 X 方向的波前曲率被改变，Y 方向传播保持不变。\n\n[Sources]\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/fit_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/design_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/model_curves.csv"}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"用二阶矩矩阵计算，焦点匹配与 M² 不变量同时成立","textShapes":12}
+{"kind":"textbox","id":"sh/sb6xsvu9","slide":5,"name":"slide-6-title","text":"用二阶矩矩阵计算，焦点匹配与 M² 不变量同时成立","textPreview":"用二阶矩矩阵计算，焦点匹配与 M² 不变量同时成立","textChars":25,"textLines":1,"bbox":[42,34,1185,72]}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"name":"slide-6-number","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[1178,660,52,20]}
+{"kind":"shape","id":"sh/cf2tcr61","slide":5,"name":"timeline-line","bbox":[105,305,1010,0]}
+{"kind":"shape","id":"sh/z2tcnm5s","slide":5,"name":"step-dot-1","bbox":[115,292,26,26]}
+{"kind":"textbox","id":"sh/yhkbe1o7","slide":5,"name":"step-number-1","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[115,240,80,32]}
+{"kind":"textbox","id":"sh/l4bupwny","slide":5,"name":"step-title-1","text":"原始 D4σ 焦散","textPreview":"原始 D4σ 焦散","textChars":9,"textLines":1,"bbox":[115,345,300,48]}
+{"kind":"textbox","id":"sh/032tgr6d","slide":5,"name":"step-body-1","text":"D²(z)=D₀²+θ²(z−z₀)²\n\nX：D₀=891 µm\nY：D₀=515 µm","textPreview":"D²(z)=D₀²+θ²(z−z₀)² |  | X：D₀=891 µm | Y：D₀=515 µm","textChars":44,"textLines":4,"bbox":[115,410,295,130]}
+{"kind":"shape","id":"sh/n6dcr65o","slide":5,"name":"step-dot-2","bbox":[455,292,26,26]}
+{"kind":"textbox","id":"sh/m5kbi1oj","slide":5,"name":"step-number-2","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[455,240,80,32]}
+{"kind":"textbox","id":"sh/w32dkbuh","slide":5,"name":"step-title-2","text":"薄柱面镜变换","textPreview":"薄柱面镜变换","textChars":6,"textLines":1,"bbox":[455,345,300,48]}
+{"kind":"textbox","id":"sh/x4vedgvm","slide":5,"name":"step-body-2","text":"Gout = L Gin Lᵀ\nLx=[[1,0],[−1/fc,1]]\nLy=I\n再用 P(Δz) 自由传播","textPreview":"Gout = L Gin Lᵀ | Lx=[[1,0],[−1/fc,1]] | Ly=I | 再用 P(Δz) 自由传播","textChars":55,"textLines":4,"bbox":[455,410,295,130]}
+{"kind":"shape","id":"sh/ahkvi1cb","slide":5,"name":"step-dot-3","bbox":[795,292,26,26]}
+{"kind":"textbox","id":"sh/v2twb6dw","slide":5,"name":"step-number-3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[795,240,80,32]}
+{"kind":"textbox","id":"sh/k7mxovud","slide":5,"name":"step-title-3","text":"焦点处双条件匹配","textPreview":"焦点处双条件匹配","textChars":8,"textLines":1,"bbox":[795,345,300,48]}
+{"kind":"textbox","id":"sh/58vehgvy","slide":5,"name":"step-body-3","text":"z₀X′≈z₀Y≈235.32 mm\nD₀X′≈D₀Y≈515 µm\n⇒ εfocus≈1.000","textPreview":"z₀X′≈z₀Y≈235.32 mm | D₀X′≈D₀Y≈515 µm | ⇒ εfocus≈1.000","textChars":49,"textLines":3,"bbox":[795,410,295,130]}
+{"kind":"shape","id":"sh/i54fmlc7","slide":5,"name":"acceptance-panel","bbox":[42,575,1170,72]}
+{"kind":"textbox","id":"sh/j6dwfqds","slide":5,"name":"acceptance-text","text":"det(G) 在无损一阶光学中不变 ⇒ M² 不变；因此 θX′=D₀X·θX/D₀X′≈68.31 µm/mm，解释了离焦后轴比回升。","textPreview":"det(G) 在无损一阶光学中不变 ⇒ M² 不变；因此 θX′=D₀X·θX/D₀X′≈68.31 µm/mm，解释了离焦后轴比回升。","textChars":68,"textLines":1,"bbox":[68,594,1120,38]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"二阶矩矩阵 G 的对角元分别对应光束尺寸平方和角扩展平方，非对角元描述位置—角度相关性。自由传播矩阵 P 和薄透镜矩阵 L 通过 G′=A G Aᵀ 作用；det(G) 不变等价于 M² 不变。\n\n[Sources]\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/fit_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/design_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/model_curves.csv"}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"M² 前后不变；焦点圆斑来自 X 焦散重排","textShapes":6}
+{"kind":"textbox","id":"sh/pc76hkr2","slide":6,"name":"slide-4-title","text":"M² 前后不变；焦点圆斑来自 X 焦散重排","textPreview":"M² 前后不变；焦点圆斑来自 X 焦散重排","textChars":21,"textLines":1,"bbox":[42,34,1185,72]}
+{"kind":"textbox","id":"sh/yhg7epsj","slide":6,"name":"slide-4-number","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1178,660,52,20]}
+{"kind":"textbox","id":"sh/zi98nu94","slide":6,"name":"m2-subtitle","text":"柱面镜不“修好”光束质量，而是调整 X 方向波前曲率：焦点处 X/Y 相等，离焦后 X 因更大发散角增长更快。","textPreview":"柱面镜不“修好”光束质量，而是调整 X 方向波前曲率：焦点处 X/Y 相等，离焦后 X 因更大发散角增长更快。","textChars":55,"textLines":1,"bbox":[42,115,1180,45]}
+{"kind":"textbox","id":"sh/ml07i9sv","slide":6,"name":"waist-change","text":"X 束腰：891 → 515 µm","textPreview":"X 束腰：891 → 515 µm","textChars":17,"textLines":1,"bbox":[470,610,345,34]}
+{"kind":"textbox","id":"sh/7m98ru9g","slide":6,"name":"divergence-change","text":"X 发散：39.47 → 68.31 µm/mm","textPreview":"X 发散：39.47 → 68.31 µm/mm","textChars":24,"textLines":1,"bbox":[825,610,400,34]}
+{"kind":"textbox","id":"sh/oryp8fah","slide":6,"name":"m2-exact-values","text":"M²X=2.6065 / M²Y=1.6552\n前后相同","textPreview":"M²X=2.6065 / M²Y=1.6552 | 前后相同","textChars":28,"textLines":2,"bbox":[55,595,350,52]}
+{"kind":"chart","id":"ch/xoz218ry","slide":6,"name":"Chart","chartType":"bar","bbox":[42,185,390,405]}
+{"kind":"chart","id":"ch/w361snqd","slide":6,"name":"Chart","chartType":"line","bbox":[470,185,755,405]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"左图证明理想无损柱面镜不会改变 M²。右图显示 X 焦散在焦点处与 Y 相交，但其斜率更陡，因此只保证焦点附近圆斑。\n\n[Sources]\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/fit_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/design_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/model_curves.csv"}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"在焦点前 12.70 mm 放置 +25.4 mm 柱面镜，功率方向沿 X","textShapes":12}
+{"kind":"textbox","id":"sh/ozq5szq9","slide":7,"name":"slide-5-title","text":"在焦点前 12.70 mm 放置 +25.4 mm 柱面镜，功率方向沿 X","textPreview":"在焦点前 12.70 mm 放置 +25.4 mm 柱面镜，功率方向沿 X","textChars":37,"textLines":1,"bbox":[42,34,1185,72]}
+{"kind":"textbox","id":"sh/cb2tkvap","slide":7,"name":"slide-5-number","text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[1178,660,52,20]}
+{"kind":"shape","id":"sh/dcbud0ra","slide":7,"name":"optical-axis","bbox":[90,325,1080,0]}
+{"kind":"shape","id":"sh/ydkbm5sv","slide":7,"name":"beam-upper-1","bbox":[170,245,350,50]}
+{"kind":"shape","id":"sh/zedcfa9g","slide":7,"name":"beam-lower-1","bbox":[170,355,350,50]}
+{"kind":"shape","id":"sh/kzmdova1","slide":7,"name":"beam-upper-2","bbox":[520,295,330,30]}
+{"kind":"shape","id":"sh/l0vuh0rm","slide":7,"name":"beam-lower-2","bbox":[520,325,330,30]}
+{"kind":"shape","id":"sh/eh0ba1sr","slide":7,"name":"beam-upper-3","bbox":[850,325,250,65]}
+{"kind":"shape","id":"sh/fi9c369c","slide":7,"name":"beam-lower-3","bbox":[850,260,250,65]}
+{"kind":"shape","id":"sh/baxkjqlk","slide":7,"name":"distance-bracket","bbox":[520,475,330,0]}
+{"kind":"shape","id":"sh/a9ojq5kz","slide":7,"name":"x-power-arrow","bbox":[965,555,140,0]}
+{"kind":"shape","id":"sh/xcz2l03q","slide":7,"name":"y-axis-line","bbox":[1035,495,0,120]}
+{"kind":"shape","id":"sh/cbq1sv25","slide":7,"name":"existing-optics","bbox":[154,235,32,180]}
+{"kind":"shape","id":"sh/n6x0fqlo","slide":7,"name":"cylindrical-lens","bbox":[508,250,24,150]}
+{"kind":"shape","id":"sh/25ojml43","slide":7,"name":"focus-point","bbox":[839,314,22,22]}
+{"kind":"shape","id":"sh/p8fih03e","slide":7,"name":"camera-scan","bbox":[1090,240,70,170]}
+{"kind":"textbox","id":"sh/o761ov2t","slide":7,"name":"existing-label","text":"现有上游\n聚焦光学","textPreview":"现有上游 | 聚焦光学","textChars":9,"textLines":2,"bbox":[95,170,155,60]}
+{"kind":"textbox","id":"sh/f2d0b6lc","slide":7,"name":"lens-label","text":"+25.4 mm ZnSe\n10.6 µm AR","textPreview":"+25.4 mm ZnSe | 10.6 µm AR","textChars":24,"textLines":2,"bbox":[420,175,210,62]}
+{"kind":"textbox","id":"sh/eh4jil4r","slide":7,"name":"lens-z-label","text":"镜片主平面\nz = 222.62 mm","textPreview":"镜片主平面 | z = 222.62 mm","textChars":19,"textLines":2,"bbox":[420,410,210,62]}
+{"kind":"textbox","id":"sh/id4ju1oz","slide":7,"name":"focus-label","text":"目标焦点\nz ≈ 235.32 mm","textPreview":"目标焦点 | z ≈ 235.32 mm","textChars":18,"textLines":2,"bbox":[755,175,205,62]}
+{"kind":"textbox","id":"sh/jedkn654","slide":7,"name":"distance-label","text":"12.70 mm","textPreview":"12.70 mm","textChars":8,"textLines":1,"bbox":[650,482,95,30]}
+{"kind":"textbox","id":"sh/4fm1wb6p","slide":7,"name":"camera-label","text":"相机重点扫描\nz = 230 / 235.3 / 240 mm","textPreview":"相机重点扫描 | z = 230 / 235.3 / 240 mm","textChars":31,"textLines":2,"bbox":[1030,165,190,62]}
+{"kind":"shape","id":"sh/50v2pgna","slide":7,"name":"orientation-panel","bbox":[905,485,310,165]}
+{"kind":"textbox","id":"sh/q143ylov","slide":7,"name":"orientation-title","text":"镜片方向","textPreview":"镜片方向","textChars":4,"textLines":1,"bbox":[925,502,120,34]}
+{"kind":"shape","id":"sh/r2dkrq5g","slide":7,"name":"orientation-x-visible","bbox":[940,578,85,0]}
+{"kind":"shape","id":"sh/s3ml0v61","slide":7,"name":"orientation-y-visible","bbox":[982,542,0,78]}
+{"kind":"shape","id":"sh/d4f2t0nm","slide":7,"name":"orientation-cylinder-icon","bbox":[975,550,15,55]}
+{"kind":"textbox","id":"sh/e5o32lor","slide":7,"name":"x-orientation-label","text":"X：有光焦度 / 对准原长轴","textPreview":"X：有光焦度 / 对准原长轴","textChars":14,"textLines":1,"bbox":[1035,558,160,30]}
+{"kind":"textbox","id":"sh/f6xkvq5c","slide":7,"name":"y-orientation-label","text":"Y：柱面母线 / 无光焦度","textPreview":"Y：柱面母线 / 无光焦度","textChars":13,"textLines":1,"bbox":[930,615,260,26]}
+{"kind":"textbox","id":"sh/p0zmlk7u","slide":7,"name":"coordinate-note","text":"坐标沿用原 CSV 的机械零点；若平台零点不同，优先保证镜片主平面到焦点中心 12.70 mm 的相对距离。镜片有效口径建议 ≥10 mm。","textPreview":"坐标沿用原 CSV 的机械零点；若平台零点不同，优先保证镜片主平面到焦点中心 12.70 mm 的相对距离。镜片有效口径建议 ≥10 mm。","textChars":70,"textLines":1,"bbox":[42,610,820,58]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"实施时将柱面镜的有光焦度方向对准原光斑长轴 X，母线沿 Y。若相机主轴随 z 旋转，应以焦点附近协方差矩阵的主特征轴为准调整镜片角度。\n\n[Sources]\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/fit_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/design_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/model_curves.csv\n- https://www.lasercomponents.com/en/product/znse-lenses-for-co2-lasers/"}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"围绕焦点三点复测；以焦点圆度作为第一验收指标","textShapes":12}
+{"kind":"textbox","id":"sh/kfixwbe1","slide":8,"name":"slide-6-title","text":"围绕焦点三点复测；以焦点圆度作为第一验收指标","textPreview":"围绕焦点三点复测；以焦点圆度作为第一验收指标","textChars":22,"textLines":1,"bbox":[42,34,1185,72]}
+{"kind":"textbox","id":"sh/18byd4zy","slide":8,"name":"slide-6-number","text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[1178,660,52,20]}
+{"kind":"shape","id":"sh/g72x4zyd","slide":8,"name":"timeline-line","bbox":[105,305,1010,0]}
+{"kind":"shape","id":"sh/ri9g7uhw","slide":8,"name":"step-dot-1","bbox":[115,292,26,26]}
+{"kind":"textbox","id":"sh/6h0fypgb","slide":8,"name":"step-number-1","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[115,240,80,32]}
+{"kind":"textbox","id":"sh/tkby9kzm","slide":8,"name":"step-title-1","text":"安装与定向","textPreview":"安装与定向","textChars":5,"textLines":1,"bbox":[115,345,300,48]}
+{"kind":"textbox","id":"sh/sjix0zy1","slide":8,"name":"step-body-1","text":"+25.4 mm ZnSe\nz=222.62 mm\n母线沿 Y，功率沿 X","textPreview":"+25.4 mm ZnSe | z=222.62 mm | 母线沿 Y，功率沿 X","textChars":37,"textLines":3,"bbox":[115,410,295,130]}
+{"kind":"shape","id":"sh/je9g3ahk","slide":8,"name":"step-dot-2","bbox":[455,292,26,26]}
+{"kind":"textbox","id":"sh/id0fu50z","slide":8,"name":"step-number-2","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[455,240,80,32]}
+{"kind":"textbox","id":"sh/o7ydoret","slide":8,"name":"step-title-2","text":"焦点附近复测","textPreview":"焦点附近复测","textChars":6,"textLines":1,"bbox":[455,345,300,48]}
+{"kind":"textbox","id":"sh/98rehwve","slide":8,"name":"step-body-2","text":"重点测 z=230 / 235.3 / 240\n使用同一 D4σ 算法\n记录主轴角和椭圆率","textPreview":"重点测 z=230 / 235.3 / 240 | 使用同一 D4σ 算法 | 记录主轴角和椭圆率","textChars":45,"textLines":3,"bbox":[455,410,295,130]}
+{"kind":"shape","id":"sh/m5gvmhwn","slide":8,"name":"step-dot-3","bbox":[795,292,26,26]}
+{"kind":"textbox","id":"sh/n6pwfmd8","slide":8,"name":"step-number-3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[795,240,80,32]}
+{"kind":"textbox","id":"sh/0jydkreh","slide":8,"name":"step-title-3","text":"微调镜片位置","textPreview":"微调镜片位置","textChars":6,"textLines":1,"bbox":[795,345,300,48]}
+{"kind":"textbox","id":"sh/1k7edwv2","slide":8,"name":"step-body-3","text":"镜片 z 以 0.5–1 mm 步进\n优先最小化焦点轴比\n再检查 ±5 mm 对称性","textPreview":"镜片 z 以 0.5–1 mm 步进 | 优先最小化焦点轴比 | 再检查 ±5 mm 对称性","textChars":42,"textLines":3,"bbox":[795,410,295,130]}
+{"kind":"shape","id":"sh/ehgvihwr","slide":8,"name":"acceptance-panel","bbox":[42,575,1170,72]}
+{"kind":"textbox","id":"sh/zipwbmdc","slide":8,"name":"acceptance-text","text":"建议验收：焦点 ε≤1.05；焦点 ±5 mm 内 ε≤1.15；±10 mm 内允许 ε≤1.28。超差先查主轴旋转、z 零点、焦距公差和截光。","textPreview":"建议验收：焦点 ε≤1.05；焦点 ±5 mm 内 ε≤1.15；±10 mm 内允许 ε≤1.28。超差先查主轴旋转、z 零点、焦距公差和截光。","textChars":73,"textLines":1,"bbox":[68,594,1120,38]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"验收标准与用户目标一致：焦点附近优先。模型在 z≈230 mm 为 1.124、z≈240 mm 为 1.088，±10 mm 最差约 1.274。\n\n[Sources]\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/fit_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/design_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/model_curves.csv"}

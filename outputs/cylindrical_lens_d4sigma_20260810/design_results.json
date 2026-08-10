@@ -1,0 +1,70 @@
+{
+  "assumptions": {
+    "wavelength_um": 10.6,
+    "z_unit": "mm",
+    "diameter_unit": "um",
+    "lens_model": "thin cylindrical lens; X axis powered; free-space propagation after lens",
+    "evaluation_band_mm": [
+      220.0,
+      250.0
+    ]
+  },
+  "fits": {
+    "X": {
+      "axis": "X",
+      "d0_um": 891.1897396522651,
+      "theta_um_per_mm": 39.47330369941287,
+      "z0_mm": 234.93397421475757,
+      "m2": 2.6064996435745478,
+      "rmse_um": 45.53146222411198,
+      "r2": 0.9988191432383967,
+      "d0_std_um": 23.866162582441934,
+      "theta_std_um_per_mm": 0.2406400542044294,
+      "z0_std_mm": 0.4186078721638706
+    },
+    "Y": {
+      "axis": "Y",
+      "d0_um": 515.0106366563651,
+      "theta_um_per_mm": 43.376102972348725,
+      "z0_mm": 235.32166360818695,
+      "m2": 1.6552010229690728,
+      "rmse_um": 44.102833708511575,
+      "r2": 0.9992081223619643,
+      "d0_std_um": 28.9678763263606,
+      "theta_std_um_per_mm": 0.21931873957321868,
+      "z0_std_mm": 0.3326440721520205
+    }
+  },
+  "baseline": {
+    "max_ellipticity_in_band": 1.730778293429601,
+    "min_circularity_in_band": 0.5777747524314412,
+    "m2_ratio_x_over_y": 1.5747329825226009,
+    "one_cylindrical_lens_uniform_ellipticity_lower_bound": 1.2548836529824592
+  },
+  "recommended_standard_design": {
+    "design": "推荐标准件_整段均衡",
+    "focal_length_mm": 50.0,
+    "lens_z_mm": 219.43414445438512,
+    "powered_direction": "X",
+    "cylinder_axis_direction": "Y",
+    "new_x_waist_d4_um": 643.1641631463941,
+    "new_x_divergence_um_per_mm": 54.695527616154635,
+    "new_x_waist_z_mm": 235.3192924921404,
+    "evaluation_window_mm": "220-250",
+    "max_ellipticity": 1.2563026424385304,
+    "min_circularity": 0.7959865451361008
+  },
+  "point_focus_alternative": {
+    "design": "备选标准件_单点圆斑",
+    "focal_length_mm": 25.4,
+    "lens_z_mm": 222.61795472400928,
+    "powered_direction": "X",
+    "cylinder_axis_direction": "Y",
+    "new_x_waist_d4_um": 514.9624832331335,
+    "new_x_divergence_um_per_mm": 68.31216718202892,
+    "new_x_waist_z_mm": 235.42473802310872,
+    "evaluation_window_mm": "225.3-245.3",
+    "max_ellipticity": 1.2737900377289653,
+    "min_circularity": 0.7850587383952976
+  }
+}

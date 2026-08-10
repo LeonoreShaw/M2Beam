@@ -1,0 +1,1344 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/mcoevs",
+    "id": "mcoevs",
+    "slide": 5,
+    "layoutId": "8178ae65-636d-4189-a74d-0ab98401bcde",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "d9de8c71-86ee-4edf-95fd-ac9b39ffbc40",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "8178ae65-636d-4189-a74d-0ab98401bcde",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "d9de8c71-86ee-4edf-95fd-ac9b39ffbc40",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "d9de8c71-86ee-4edf-95fd-ac9b39ffbc40",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zq587eho",
+      "id": "1",
+      "name": "slide-5-title",
+      "bbox": [
+        42,
+        34,
+        1185,
+        72
+      ],
+      "geometry": "rect",
+      "text": "在原焦点前 15.89 mm 加入 +50 mm 柱面镜",
+      "textPreview": "在原焦点前 15.89 mm 加入 +50 mm 柱面镜",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "Microsoft YaHei",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "在原焦点前 15.89 mm 加入 +50 mm 柱面镜"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "在原焦点前 15.89 mm 加入 +50 mm 柱面镜",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Microsoft YaHei",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "在原焦点前 15.89 mm 加入 +50 mm 柱面镜",
+              "fontSize": 48,
+              "typeface": "Microsoft YaHei",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0re90ji9",
+      "id": "2",
+      "name": "slide-5-number",
+      "bbox": [
+        1178,
+        660,
+        52,
+        20
+      ],
+      "geometry": "rect",
+      "text": "5",
+      "textPreview": "5",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#5F6670",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "5"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "5",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#5F6670",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "5",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#5F6670",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1snq9ozu",
+      "id": "3",
+      "name": "optical-axis",
+      "bbox": [
+        90,
+        325,
+        1080,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#B8BCC4",
+      "lineWidth": 2
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mtwr2t0f",
+      "id": "4",
+      "name": "beam-upper-1",
+      "bbox": [
+        170,
+        245,
+        350,
+        50
+      ],
+      "geometry": "line",
+      "lineColor": "#3D8DFF",
+      "lineWidth": 4
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nu58byh0",
+      "id": "5",
+      "name": "beam-lower-1",
+      "bbox": [
+        170,
+        355,
+        350,
+        50
+      ],
+      "verticalFlip": true,
+      "geometry": "line",
+      "lineColor": "#3D8DFF",
+      "lineWidth": 4
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ove943il",
+      "id": "6",
+      "name": "beam-upper-2",
+      "bbox": [
+        520,
+        295,
+        330,
+        30
+      ],
+      "geometry": "line",
+      "lineColor": "#009E73",
+      "lineWidth": 4
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9wnqdoz6",
+      "id": "7",
+      "name": "beam-lower-2",
+      "bbox": [
+        520,
+        325,
+        330,
+        30
+      ],
+      "verticalFlip": true,
+      "geometry": "line",
+      "lineColor": "#009E73",
+      "lineWidth": 4
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/axwr6t0b",
+      "id": "8",
+      "name": "beam-upper-3",
+      "bbox": [
+        850,
+        325,
+        250,
+        65
+      ],
+      "geometry": "line",
+      "lineColor": "#009E73",
+      "lineWidth": 4
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/byp8fyhw",
+      "id": "9",
+      "name": "beam-lower-3",
+      "bbox": [
+        850,
+        260,
+        250,
+        65
+      ],
+      "verticalFlip": true,
+      "geometry": "line",
+      "lineColor": "#009E73",
+      "lineWidth": 4
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7a1ozmlk",
+      "id": "10",
+      "name": "distance-bracket",
+      "bbox": [
+        520,
+        475,
+        330,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/69s7qhkf",
+      "id": "11",
+      "name": "x-power-arrow",
+      "bbox": [
+        965,
+        555,
+        140,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#3D8DFF",
+      "lineWidth": 3
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tc361w3q",
+      "id": "12",
+      "name": "y-axis-line",
+      "bbox": [
+        1035,
+        495,
+        0,
+        120
+      ],
+      "geometry": "line",
+      "lineColor": "#5F6670",
+      "lineWidth": 3
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sbapsr25",
+      "id": "13",
+      "name": "existing-optics",
+      "bbox": [
+        154,
+        235,
+        32,
+        180
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#D0EDFA",
+      "lineColor": "#3D8DFF",
+      "lineWidth": 2
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jm1ov2lo",
+      "id": "14",
+      "name": "cylindrical-lens",
+      "bbox": [
+        508,
+        250,
+        24,
+        150
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#6DCBF4",
+      "lineColor": "#3D8DFF",
+      "lineWidth": 2
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ils7mhk3",
+      "id": "15",
+      "name": "focus-point",
+      "bbox": [
+        839,
+        314,
+        22,
+        22
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#E69F00",
+      "lineColor": "#E69F00",
+      "lineWidth": 1
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58j6xc3u",
+      "id": "16",
+      "name": "camera-scan",
+      "bbox": [
+        1090,
+        240,
+        70,
+        170
+      ],
+      "geometry": "rect",
+      "fillColor": "#EDEDED",
+      "lineColor": "#111111",
+      "lineWidth": 2
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/knapo729",
+      "id": "17",
+      "name": "existing-label",
+      "bbox": [
+        95,
+        170,
+        155,
+        60
+      ],
+      "geometry": "rect",
+      "text": "现有上游\n聚焦光学",
+      "textPreview": "现有上游 | 聚焦光学",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "现有上游"
+          },
+          {
+            "index": 2,
+            "text": "聚焦光学"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "现有上游",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "现有上游",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "聚焦光学",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "聚焦光学",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3il876ls",
+      "id": "18",
+      "name": "lens-label",
+      "bbox": [
+        420,
+        175,
+        210,
+        62
+      ],
+      "geometry": "rect",
+      "text": "+50 mm ZnSe\n10.6 µm AR",
+      "textPreview": "+50 mm ZnSe | 10.6 µm AR",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "+50 mm ZnSe"
+          },
+          {
+            "index": 2,
+            "text": "10.6 µm AR"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "+50 mm ZnSe",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#3D8DFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "+50 mm ZnSe",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#3D8DFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "10.6 µm AR",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#3D8DFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "10.6 µm AR",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#3D8DFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2hc7y1kn",
+      "id": "19",
+      "name": "lens-z-label",
+      "bbox": [
+        420,
+        410,
+        210,
+        62
+      ],
+      "geometry": "rect",
+      "text": "镜片主平面\nz = 219.43 mm",
+      "textPreview": "镜片主平面 | z = 219.43 mm",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Microsoft YaHei",
+        "color": "#111111",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "镜片主平面"
+          },
+          {
+            "index": 2,
+            "text": "z = 219.43 mm"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "镜片主平面",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Microsoft YaHei",
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "镜片主平面",
+              "fontSize": 21,
+              "typeface": "Microsoft YaHei",
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "z = 219.43 mm",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Microsoft YaHei",
+            "color": "#111111",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "z = 219.43 mm",
+              "fontSize": 21,
+              "typeface": "Microsoft YaHei",
+              "color": "#111111",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/edgr654v",
+      "id": "20",
+      "name": "focus-label",
+      "bbox": [
+        755,
+        175,
+        205,
+        62
+      ],
+      "geometry": "rect",
+      "text": "新焦区中心\nz ≈ 235.32 mm",
+      "textPreview": "新焦区中心 | z ≈ 235.32 mm",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#E69F00",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "新焦区中心"
+          },
+          {
+            "index": 2,
+            "text": "z ≈ 235.32 mm"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "新焦区中心",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#E69F00",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "新焦区中心",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#E69F00",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "z ≈ 235.32 mm",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#E69F00",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "z ≈ 235.32 mm",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#E69F00",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zypsza50",
+      "id": "21",
+      "name": "distance-label",
+      "bbox": [
+        650,
+        482,
+        95,
+        30
+      ],
+      "geometry": "rect",
+      "text": "15.89 mm",
+      "textPreview": "15.89 mm",
+      "resolvedFontSize": 18.94,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.95,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "15.89 mm"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "15.89 mm",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "15.89 mm",
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0zy98fml",
+      "id": "22",
+      "name": "camera-label",
+      "bbox": [
+        1030,
+        165,
+        190,
+        62
+      ],
+      "geometry": "rect",
+      "text": "相机扫描\nz = 220–250 mm",
+      "textPreview": "相机扫描 | z = 220–250 mm",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "相机扫描"
+          },
+          {
+            "index": 2,
+            "text": "z = 220–250 mm"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "相机扫描",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "相机扫描",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "z = 220–250 mm",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "z = 220–250 mm",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/107a1kn6",
+      "id": "23",
+      "name": "orientation-panel",
+      "bbox": [
+        905,
+        485,
+        310,
+        165
+      ],
+      "geometry": "rect",
+      "fillColor": "#F7F7F7",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1gba54r",
+      "id": "24",
+      "name": "orientation-title",
+      "bbox": [
+        925,
+        502,
+        120,
+        34
+      ],
+      "geometry": "rect",
+      "text": "镜片方向",
+      "textPreview": "镜片方向",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "镜片方向"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "镜片方向",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "镜片方向",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n2ps3alc",
+      "id": "25",
+      "name": "orientation-x-visible",
+      "bbox": [
+        940,
+        578,
+        85,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#3D8DFF",
+      "lineWidth": 3
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o3itcfmx",
+      "id": "26",
+      "name": "orientation-y-visible",
+      "bbox": [
+        982,
+        542,
+        0,
+        78
+      ],
+      "geometry": "line",
+      "lineColor": "#5F6670",
+      "lineWidth": 3
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/94ra5k3i",
+      "id": "27",
+      "name": "orientation-cylinder-icon",
+      "bbox": [
+        975,
+        550,
+        15,
+        55
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#6DCBF4",
+      "lineColor": "#3D8DFF",
+      "lineWidth": 1
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/25wryl4n",
+      "id": "28",
+      "name": "x-orientation-label",
+      "bbox": [
+        1035,
+        558,
+        160,
+        30
+      ],
+      "geometry": "rect",
+      "text": "X：有光焦度",
+      "textPreview": "X：有光焦度",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "X：有光焦度"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "X：有光焦度",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#3D8DFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "X：有光焦度",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#3D8DFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/365srq5s",
+      "id": "29",
+      "name": "y-orientation-label",
+      "bbox": [
+        930,
+        615,
+        260,
+        26
+      ],
+      "geometry": "rect",
+      "text": "Y：柱面母线 / 无光焦度",
+      "textPreview": "Y：柱面母线 / 无光焦度",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Microsoft YaHei",
+        "color": "#5F6670",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Y：柱面母线 / 无光焦度"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Y：柱面母线 / 无光焦度",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft YaHei",
+            "color": "#5F6670",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Y：柱面母线 / 无光焦度",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#5F6670",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/50buxo7q",
+      "id": "30",
+      "name": "coordinate-note",
+      "bbox": [
+        42,
+        610,
+        820,
+        58
+      ],
+      "geometry": "rect",
+      "text": "坐标要求：z 必须沿用原 CSV 文件夹的机械零点；若装调平台零点不同，只保持镜片到焦区中心约 15.9 mm 的相对关系。",
+      "textPreview": "坐标要求：z 必须沿用原 CSV 文件夹的机械零点；若装调平台零点不同，只保持镜片到焦区中心约 15.9 mm 的相对关系。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei",
+        "color": "#5F6670",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "坐标要求：z 必须沿用原 CSV"
+          },
+          {
+            "index": 2,
+            "text": "文件夹的机械零点；若装调平台零点不同，只保持镜片到焦区中心约 15.9 mm 的相对关系。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "坐标要求：z 必须沿用原 CSV 文件夹的机械零点；若装调平台零点不同，只保持镜片到焦区中心约 15.9 mm 的相对关系。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei",
+            "color": "#5F6670",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "坐标要求：z 必须沿用原 CSV 文件夹的机械零点；若装调平台零点不同，只保持镜片到焦区中心约 15.9 mm 的相对关系。",
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#5F6670",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

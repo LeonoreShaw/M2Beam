@@ -1,0 +1,790 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/rpgcc5",
+    "id": "rpgcc5",
+    "slide": 2,
+    "layoutId": "8178ae65-636d-4189-a74d-0ab98401bcde",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "d9de8c71-86ee-4edf-95fd-ac9b39ffbc40",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "8178ae65-636d-4189-a74d-0ab98401bcde",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "d9de8c71-86ee-4edf-95fd-ac9b39ffbc40",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "d9de8c71-86ee-4edf-95fd-ac9b39ffbc40",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e5s3q1sf",
+      "id": "1",
+      "name": "slide-2-title",
+      "bbox": [
+        42,
+        34,
+        1185,
+        72
+      ],
+      "geometry": "rect",
+      "text": "柱面镜把焦区最大轴比从 1.731 降至 1.256",
+      "textPreview": "柱面镜把焦区最大轴比从 1.731 降至 1.256",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "Microsoft YaHei",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "柱面镜把焦区最大轴比从 1.731 降至 1.256"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "柱面镜把焦区最大轴比从 1.731 降至 1.256",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Microsoft YaHei",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "柱面镜把焦区最大轴比从 1.731 降至 1.256",
+              "fontSize": 48,
+              "typeface": "Microsoft YaHei",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18jmlgbq",
+      "id": "2",
+      "name": "slide-2-number",
+      "bbox": [
+        1178,
+        660,
+        52,
+        20
+      ],
+      "geometry": "rect",
+      "text": "2",
+      "textPreview": "2",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#5F6670",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#5F6670",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#5F6670",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/07alsbal",
+      "id": "3",
+      "name": "summary-explanation",
+      "bbox": [
+        42,
+        122,
+        1170,
+        92
+      ],
+      "geometry": "rect",
+      "text": "原始两轴束腰几乎在同一位置，主要矛盾是束腰尺寸和发散斜率不匹配；对较宽的 X 方向增加正光焦度即可显著改善焦区圆度。",
+      "textPreview": "原始两轴束腰几乎在同一位置，主要矛盾是束腰尺寸和发散斜率不匹配；对较宽的 X 方向增加正光焦度即可显著改善焦区圆度。",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 26,
+        "typeface": "Microsoft YaHei",
+        "color": "#5F6670",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "原始两轴束腰几乎在同一位置，主要矛盾是束腰尺寸和发散斜率不匹配；对较宽的 X"
+          },
+          {
+            "index": 2,
+            "text": "方向增加正光焦度即可显著改善焦区圆度。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "原始两轴束腰几乎在同一位置，主要矛盾是束腰尺寸和发散斜率不匹配；对较宽的 X 方向增加正光焦度即可显著改善焦区圆度。",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Microsoft YaHei",
+            "color": "#5F6670",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "原始两轴束腰几乎在同一位置，主要矛盾是束腰尺寸和发散斜率不匹配；对较宽的 X 方向增加正光焦度即可显著改善焦区圆度。",
+              "fontSize": 26,
+              "typeface": "Microsoft YaHei",
+              "color": "#5F6670",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/na14n6tw",
+      "id": "4",
+      "name": "metric-panel-1",
+      "bbox": [
+        42,
+        315,
+        375,
+        300
+      ],
+      "geometry": "rect",
+      "fillColor": "#EDEDED",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m9snulsb",
+      "id": "5",
+      "name": "metric-accent-1",
+      "bbox": [
+        42,
+        315,
+        12,
+        300
+      ],
+      "geometry": "rect",
+      "fillColor": "#3D8DFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9c3mpgb2",
+      "id": "6",
+      "name": "metric-stat-1",
+      "bbox": [
+        72,
+        375,
+        320,
+        105
+      ],
+      "geometry": "rect",
+      "text": "1.731 → 1.256",
+      "textPreview": "1.731 → 1.256",
+      "resolvedFontSize": 45.04,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 48,
+        "typeface": "Microsoft YaHei",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.94,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "1.731 → 1.256"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "1.731 → 1.256",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Microsoft YaHei",
+            "color": "#3D8DFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "1.731 → 1.256",
+              "fontSize": 48,
+              "typeface": "Microsoft YaHei",
+              "color": "#3D8DFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/obu5wbah",
+      "id": "7",
+      "name": "metric-label-1",
+      "bbox": [
+        72,
+        515,
+        320,
+        70
+      ],
+      "geometry": "rect",
+      "text": "220–250 mm 最大椭圆率",
+      "textPreview": "220–250 mm 最大椭圆率",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#111111",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "220–250 mm 最大椭圆率"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "220–250 mm 最大椭圆率",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "220–250 mm 最大椭圆率",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3eh4bmts",
+      "id": "8",
+      "name": "metric-panel-2",
+      "bbox": [
+        453,
+        315,
+        375,
+        300
+      ],
+      "geometry": "rect",
+      "fillColor": "#EDEDED",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2d83ihs7",
+      "id": "9",
+      "name": "metric-accent-2",
+      "bbox": [
+        453,
+        315,
+        12,
+        300
+      ],
+      "geometry": "rect",
+      "fillColor": "#009E73",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4v25cfm5",
+      "id": "10",
+      "name": "metric-stat-2",
+      "bbox": [
+        483,
+        375,
+        320,
+        105
+      ],
+      "geometry": "rect",
+      "text": "57.8% → 79.6%",
+      "textPreview": "57.8% → 79.6%",
+      "resolvedFontSize": 43.75,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 48,
+        "typeface": "Microsoft YaHei",
+        "color": "#009E73",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.91,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "57.8% →"
+          },
+          {
+            "index": 2,
+            "text": "79.6%"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "57.8% → 79.6%",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Microsoft YaHei",
+            "color": "#009E73",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "57.8% → 79.6%",
+              "fontSize": 48,
+              "typeface": "Microsoft YaHei",
+              "color": "#009E73",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5wbm5knq",
+      "id": "11",
+      "name": "metric-label-2",
+      "bbox": [
+        483,
+        515,
+        320,
+        70
+      ],
+      "geometry": "rect",
+      "text": "焦区最低圆度",
+      "textPreview": "焦区最低圆度",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#111111",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "焦区最低圆度"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "焦区最低圆度",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "焦区最低圆度",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i9kna54f",
+      "id": "12",
+      "name": "metric-panel-3",
+      "bbox": [
+        864,
+        315,
+        375,
+        300
+      ],
+      "geometry": "rect",
+      "fillColor": "#EDEDED",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3at43a50",
+      "id": "13",
+      "name": "metric-accent-3",
+      "bbox": [
+        864,
+        315,
+        12,
+        300
+      ],
+      "geometry": "rect",
+      "fillColor": "#E69F00",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/szm5gfmh",
+      "id": "14",
+      "name": "metric-stat-3",
+      "bbox": [
+        894,
+        375,
+        320,
+        105
+      ],
+      "geometry": "rect",
+      "text": "≈27.4%",
+      "textPreview": "≈27.4%",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 48,
+        "typeface": "Microsoft YaHei",
+        "color": "#E69F00",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "≈27.4%"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "≈27.4%",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Microsoft YaHei",
+            "color": "#E69F00",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "≈27.4%",
+              "fontSize": 48,
+              "typeface": "Microsoft YaHei",
+              "color": "#E69F00",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0v69kn2",
+      "id": "15",
+      "name": "metric-label-3",
+      "bbox": [
+        894,
+        515,
+        320,
+        70
+      ],
+      "geometry": "rect",
+      "text": "最大轴比降幅",
+      "textPreview": "最大轴比降幅",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#111111",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "最大轴比降幅"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "最大轴比降幅",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "最大轴比降幅",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

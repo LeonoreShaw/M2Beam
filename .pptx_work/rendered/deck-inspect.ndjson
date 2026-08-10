@@ -1,0 +1,96 @@
+{"kind":"slide","id":"sl/nyq1gg","slide":1,"title":"D4σ / M² CAUSTIC ANALYSIS","textShapes":4}
+{"kind":"textbox","id":"sh/lsrux4z6","slide":1,"textChars":25,"textLines":1}
+{"kind":"textbox","id":"sh/y50b2pgf","slide":1,"textChars":16,"textLines":2}
+{"kind":"shape","id":"sh/zq9cvuh0","slide":1,"name":"cover-rule","bbox":[42,468,420,0]}
+{"kind":"textbox","id":"sh/c3it0zy9","slide":1,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/d4rut4zu","slide":1,"textChars":23,"textLines":1}
+{"kind":"notes","id":"nt/nyq1gg","slide":1,"text":"介绍汇报目标：总结椭圆率变化、M²图变化及光路实施方式。 |  | [Sources] | - F:/CodexProjects/光斑图片/outputs..."}
+{"kind":"slide","id":"sl/rpgcc5","slide":2,"title":"柱面镜把焦区最大轴比从 1.731 降至 1.256","textShapes":9}
+{"kind":"textbox","id":"sh/e5s3q1sf","slide":2,"textChars":26,"textLines":1}
+{"kind":"textbox","id":"sh/18jmlgbq","slide":2,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/07alsbal","slide":2,"textChars":58,"textLines":1}
+{"kind":"shape","id":"sh/na14n6tw","slide":2,"name":"metric-panel-1","bbox":[42,315,375,300]}
+{"kind":"shape","id":"sh/m9snulsb","slide":2,"name":"metric-accent-1","bbox":[42,315,12,300]}
+{"kind":"textbox","id":"sh/9c3mpgb2","slide":2,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/obu5wbah","slide":2,"textChars":16,"textLines":1}
+{"kind":"shape","id":"sh/3eh4bmts","slide":2,"name":"metric-panel-2","bbox":[453,315,375,300]}
+{"kind":"shape","id":"sh/2d83ihs7","slide":2,"name":"metric-accent-2","bbox":[453,315,12,300]}
+{"kind":"textbox","id":"sh/4v25cfm5","slide":2,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/5wbm5knq","slide":2,"textChars":6,"textLines":1}
+{"kind":"shape","id":"sh/i9kna54f","slide":2,"name":"metric-panel-3","bbox":[864,315,375,300]}
+{"kind":"shape","id":"sh/3at43a50","slide":2,"name":"metric-accent-3","bbox":[864,315,12,300]}
+{"kind":"textbox","id":"sh/szm5gfmh","slide":2,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/d0v69kn2","slide":2,"textChars":6,"textLines":1}
+{"kind":"notes","id":"nt/rpgcc5","slide":2,"text":"区分拟合焦区最大值与离散测点：1.731 是连续焦散模型在焦点附近的最大轴比。 |  | [Sources] | - F:/CodexProjects/光..."}
+{"kind":"slide","id":"sl/2dam48","slide":3,"title":"焦区椭圆率从尖峰变为接近恒定的 1.25","textShapes":6}
+{"kind":"textbox","id":"sh/q1wjihcn","slide":3,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/x4n2dcbe","slide":3,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/3ylkn2tc","slide":3,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/2xcjexcr","slide":3,"textChars":35,"textLines":3}
+{"kind":"shape","id":"sh/p0n2pcb2","slide":3,"name":"limit-panel","bbox":[880,390,330,125]}
+{"kind":"textbox","id":"sh/ozu1g7ux","slide":3,"textChars":19,"textLines":2}
+{"kind":"textbox","id":"sh/falkj2t0","slide":3,"textChars":30,"textLines":1}
+{"kind":"chart","id":"ch/8nax0zy9","slide":3,"name":"","chartType":"line","bbox":[42,145,800,480]}
+{"kind":"notes","id":"nt/2dam48","slide":3,"text":"强调绿色曲线的平坦性：目标不是只在单点变圆，而是在220–250 mm焦区内控制最差轴比。 |  | [Sources] | - F:/CodexProj..."}
+{"kind":"slide","id":"sl/hbptjp","slide":4,"title":"柱面镜改变焦散形状，但不会改善 M²","textShapes":6}
+{"kind":"textbox","id":"sh/yh8vqpcz","slide":4,"textChars":18,"textLines":1}
+{"kind":"textbox","id":"sh/lkzu1kva","slide":4,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/kjqdsfu5","slide":4,"textChars":32,"textLines":1}
+{"kind":"textbox","id":"sh/toje54vm","slide":4,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/8nadwzu1","slide":4,"textChars":24,"textLines":1}
+{"kind":"textbox","id":"sh/vq1w7uds","slide":4,"textChars":28,"textLines":2}
+{"kind":"chart","id":"ch/7mpsbe1g","slide":4,"name":"","chartType":"bar","bbox":[42,185,390,405]}
+{"kind":"chart","id":"ch/6lgr29kv","slide":4,"name":"","chartType":"line","bbox":[470,185,755,405]}
+{"kind":"notes","id":"nt/hbptjp","slide":4,"text":"说明M²保持不变并不意味着光斑形状不变；薄柱面镜通过改变曲率重新分配束腰和发散。 |  | [Sources] | - F:/CodexProjects/..."}
+{"kind":"slide","id":"sl/mcoevs","slide":5,"title":"在原焦点前 15.89 mm 加入 +50 mm 柱面镜","textShapes":12}
+{"kind":"textbox","id":"sh/zq587eho","slide":5,"textChars":28,"textLines":1}
+{"kind":"textbox","id":"sh/0re90ji9","slide":5,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/1snq9ozu","slide":5,"name":"optical-axis","bbox":[90,325,1080,0]}
+{"kind":"shape","id":"sh/mtwr2t0f","slide":5,"name":"beam-upper-1","bbox":[170,245,350,50]}
+{"kind":"shape","id":"sh/nu58byh0","slide":5,"name":"beam-lower-1","bbox":[170,355,350,50]}
+{"kind":"shape","id":"sh/ove943il","slide":5,"name":"beam-upper-2","bbox":[520,295,330,30]}
+{"kind":"shape","id":"sh/9wnqdoz6","slide":5,"name":"beam-lower-2","bbox":[520,325,330,30]}
+{"kind":"shape","id":"sh/axwr6t0b","slide":5,"name":"beam-upper-3","bbox":[850,325,250,65]}
+{"kind":"shape","id":"sh/byp8fyhw","slide":5,"name":"beam-lower-3","bbox":[850,260,250,65]}
+{"kind":"shape","id":"sh/7a1ozmlk","slide":5,"name":"distance-bracket","bbox":[520,475,330,0]}
+{"kind":"shape","id":"sh/69s7qhkf","slide":5,"name":"x-power-arrow","bbox":[965,555,140,0]}
+{"kind":"shape","id":"sh/tc361w3q","slide":5,"name":"y-axis-line","bbox":[1035,495,0,120]}
+{"kind":"shape","id":"sh/sbapsr25","slide":5,"name":"existing-optics","bbox":[154,235,32,180]}
+{"kind":"shape","id":"sh/jm1ov2lo","slide":5,"name":"cylindrical-lens","bbox":[508,250,24,150]}
+{"kind":"shape","id":"sh/ils7mhk3","slide":5,"name":"focus-point","bbox":[839,314,22,22]}
+{"kind":"shape","id":"sh/58j6xc3u","slide":5,"name":"camera-scan","bbox":[1090,240,70,170]}
+{"kind":"textbox","id":"sh/knapo729","slide":5,"textChars":9,"textLines":2}
+{"kind":"textbox","id":"sh/3il876ls","slide":5,"textChars":22,"textLines":2}
+{"kind":"textbox","id":"sh/2hc7y1kn","slide":5,"textChars":19,"textLines":2}
+{"kind":"textbox","id":"sh/edgr654v","slide":5,"textChars":19,"textLines":2}
+{"kind":"textbox","id":"sh/zypsza50","slide":5,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/0zy98fml","slide":5,"textChars":19,"textLines":2}
+{"kind":"shape","id":"sh/107a1kn6","slide":5,"name":"orientation-panel","bbox":[905,485,310,165]}
+{"kind":"textbox","id":"sh/m1gba54r","slide":5,"textChars":4,"textLines":1}
+{"kind":"shape","id":"sh/n2ps3alc","slide":5,"name":"orientation-x-visible","bbox":[940,578,85,0]}
+{"kind":"shape","id":"sh/o3itcfmx","slide":5,"name":"orientation-y-visible","bbox":[982,542,0,78]}
+{"kind":"shape","id":"sh/94ra5k3i","slide":5,"name":"orientation-cylinder-icon","bbox":[975,550,15,55]}
+{"kind":"textbox","id":"sh/25wryl4n","slide":5,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/365srq5s","slide":5,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/50buxo7q","slide":5,"textChars":62,"textLines":1}
+{"kind":"notes","id":"nt/mcoevs","slide":5,"text":"光路实现：上游聚焦光学不变，在原焦点前加入正柱面镜，只给X方向增加会聚。 |  | [Sources] | - F:/CodexProjects/光斑图片..."}
+{"kind":"slide","id":"sl/yz8h31","slide":6,"title":"按三点复测和 ±1 mm 微调完成装调验收","textShapes":12}
+{"kind":"textbox","id":"sh/rm54fe50","slide":6,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/cnel8j6l","slide":6,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/donmhon6","slide":6,"name":"timeline-line","bbox":[105,305,1010,0]}
+{"kind":"shape","id":"sh/2hc329oj","slide":6,"name":"step-dot-1","bbox":[115,292,26,26]}
+{"kind":"textbox","id":"sh/3il4be54","slide":6,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/4jul4j69","slide":6,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/pknmdonu","slide":6,"textChars":38,"textLines":3}
+{"kind":"shape","id":"sh/mdg3ed4n","slide":6,"name":"step-dot-2","bbox":[455,292,26,26]}
+{"kind":"textbox","id":"sh/nep4ny58","slide":6,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/jaxojid8","slide":6,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/y94nqdcn","slide":6,"textChars":25,"textLines":3}
+{"kind":"shape","id":"sh/lcf6lsve","slide":6,"name":"step-dot-3","bbox":[795,292,26,26]}
+{"kind":"textbox","id":"sh/kb6psnut","slide":6,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/7exon2dk","slide":6,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/6do7uxcz","slide":6,"textChars":44,"textLines":3}
+{"kind":"shape","id":"sh/tgf6psva","slide":6,"name":"acceptance-panel","bbox":[42,575,1170,72]}
+{"kind":"textbox","id":"sh/8f6pwnu5","slide":6,"textChars":59,"textLines":1}
+{"kind":"notes","id":"nt/yz8h31","slide":6,"text":"建议用与原始CSV完全相同的D4σ算法复测，以避免算法口径变化造成伪改善。 |  | [Sources] | - F:/CodexProjects/光斑图..."}
+{"kind":"notice","message":"Truncated: omitted 0 lines. Increase maxChars or narrow target."}

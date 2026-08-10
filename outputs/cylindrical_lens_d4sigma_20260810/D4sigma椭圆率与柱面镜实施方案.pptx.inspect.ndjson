@@ -1,0 +1,98 @@
+{"kind":"deck","id":"pr/wrbwus","name":"Deck"}
+{"kind":"layout","layoutId":"d9de8c71-86ee-4edf-95fd-ac9b39ffbc40","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"8178ae65-636d-4189-a74d-0ab98401bcde","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/nyq1gg","slide":1,"title":"D4σ / M² CAUSTIC ANALYSIS","textShapes":4}
+{"kind":"textbox","id":"sh/lsrux4z6","slide":1,"name":"cover-eyebrow","text":"D4σ / M² CAUSTIC ANALYSIS","textPreview":"D4σ / M² CAUSTIC ANALYSIS","textChars":25,"textLines":1,"bbox":[42,42,650,42]}
+{"kind":"textbox","id":"sh/y50b2pgf","slide":1,"name":"cover-title","text":"D4σ 椭圆率与\n柱面镜修正方案","textPreview":"D4σ 椭圆率与 | 柱面镜修正方案","textChars":16,"textLines":2,"bbox":[42,175,900,250]}
+{"kind":"shape","id":"sh/zq9cvuh0","slide":1,"name":"cover-rule","bbox":[42,468,420,0]}
+{"kind":"textbox","id":"sh/c3it0zy9","slide":1,"name":"cover-subtitle","text":"+50 mm ZnSe 柱面镜 · z≈219.43 mm · 焦区最大轴比≈1.256","textPreview":"+50 mm ZnSe 柱面镜 · z≈219.43 mm · 焦区最大轴比≈1.256","textChars":44,"textLines":1,"bbox":[42,500,980,52]}
+{"kind":"textbox","id":"sh/d4rut4zu","slide":1,"name":"cover-method","text":"基于原始 CSV 的二阶矩焦散拟合与薄透镜传播","textPreview":"基于原始 CSV 的二阶矩焦散拟合与薄透镜传播","textChars":23,"textLines":1,"bbox":[42,580,760,36]}
+{"kind":"notes","id":"nt/nyq1gg","slide":1,"text":"介绍汇报目标：总结椭圆率变化、M²图变化及光路实施方式。\n\n[Sources]\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/source_d4sigma_consolidated.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/fit_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/design_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/model_curves.csv"}
+{"kind":"slide","id":"sl/rpgcc5","slide":2,"title":"柱面镜把焦区最大轴比从 1.731 降至 1.256","textShapes":9}
+{"kind":"textbox","id":"sh/e5s3q1sf","slide":2,"name":"slide-2-title","text":"柱面镜把焦区最大轴比从 1.731 降至 1.256","textPreview":"柱面镜把焦区最大轴比从 1.731 降至 1.256","textChars":26,"textLines":1,"bbox":[42,34,1185,72]}
+{"kind":"textbox","id":"sh/18jmlgbq","slide":2,"name":"slide-2-number","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[1178,660,52,20]}
+{"kind":"textbox","id":"sh/07alsbal","slide":2,"name":"summary-explanation","text":"原始两轴束腰几乎在同一位置，主要矛盾是束腰尺寸和发散斜率不匹配；对较宽的 X 方向增加正光焦度即可显著改善焦区圆度。","textPreview":"原始两轴束腰几乎在同一位置，主要矛盾是束腰尺寸和发散斜率不匹配；对较宽的 X 方向增加正光焦度即可显著改善焦区圆度。","textChars":58,"textLines":1,"bbox":[42,122,1170,92]}
+{"kind":"shape","id":"sh/na14n6tw","slide":2,"name":"metric-panel-1","bbox":[42,315,375,300]}
+{"kind":"shape","id":"sh/m9snulsb","slide":2,"name":"metric-accent-1","bbox":[42,315,12,300]}
+{"kind":"textbox","id":"sh/9c3mpgb2","slide":2,"name":"metric-stat-1","text":"1.731 → 1.256","textPreview":"1.731 → 1.256","textChars":13,"textLines":1,"bbox":[72,375,320,105]}
+{"kind":"textbox","id":"sh/obu5wbah","slide":2,"name":"metric-label-1","text":"220–250 mm 最大椭圆率","textPreview":"220–250 mm 最大椭圆率","textChars":16,"textLines":1,"bbox":[72,515,320,70]}
+{"kind":"shape","id":"sh/3eh4bmts","slide":2,"name":"metric-panel-2","bbox":[453,315,375,300]}
+{"kind":"shape","id":"sh/2d83ihs7","slide":2,"name":"metric-accent-2","bbox":[453,315,12,300]}
+{"kind":"textbox","id":"sh/4v25cfm5","slide":2,"name":"metric-stat-2","text":"57.8% → 79.6%","textPreview":"57.8% → 79.6%","textChars":13,"textLines":1,"bbox":[483,375,320,105]}
+{"kind":"textbox","id":"sh/5wbm5knq","slide":2,"name":"metric-label-2","text":"焦区最低圆度","textPreview":"焦区最低圆度","textChars":6,"textLines":1,"bbox":[483,515,320,70]}
+{"kind":"shape","id":"sh/i9kna54f","slide":2,"name":"metric-panel-3","bbox":[864,315,375,300]}
+{"kind":"shape","id":"sh/3at43a50","slide":2,"name":"metric-accent-3","bbox":[864,315,12,300]}
+{"kind":"textbox","id":"sh/szm5gfmh","slide":2,"name":"metric-stat-3","text":"≈27.4%","textPreview":"≈27.4%","textChars":6,"textLines":1,"bbox":[894,375,320,105]}
+{"kind":"textbox","id":"sh/d0v69kn2","slide":2,"name":"metric-label-3","text":"最大轴比降幅","textPreview":"最大轴比降幅","textChars":6,"textLines":1,"bbox":[894,515,320,70]}
+{"kind":"notes","id":"nt/rpgcc5","slide":2,"text":"区分拟合焦区最大值与离散测点：1.731 是连续焦散模型在焦点附近的最大轴比。\n\n[Sources]\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/source_d4sigma_consolidated.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/fit_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/design_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/model_curves.csv"}
+{"kind":"slide","id":"sl/2dam48","slide":3,"title":"焦区椭圆率从尖峰变为接近恒定的 1.25","textShapes":6}
+{"kind":"textbox","id":"sh/q1wjihcn","slide":3,"name":"slide-3-title","text":"焦区椭圆率从尖峰变为接近恒定的 1.25","textPreview":"焦区椭圆率从尖峰变为接近恒定的 1.25","textChars":20,"textLines":1,"bbox":[42,34,1185,72]}
+{"kind":"textbox","id":"sh/x4n2dcbe","slide":3,"name":"slide-3-number","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[1178,660,52,20]}
+{"kind":"textbox","id":"sh/3ylkn2tc","slide":3,"name":"limit-heading","text":"为什么无法整段达到 1.00？","textPreview":"为什么无法整段达到 1.00？","textChars":15,"textLines":1,"bbox":[880,165,340,48]}
+{"kind":"textbox","id":"sh/2xcjexcr","slide":3,"name":"limit-body","text":"单片无损柱面镜不改变两轴 M²。\n\n因此整段恒定轴比存在一个理论下限。","textPreview":"单片无损柱面镜不改变两轴 M²。 |  | 因此整段恒定轴比存在一个理论下限。","textChars":35,"textLines":3,"bbox":[880,235,330,132]}
+{"kind":"shape","id":"sh/p0n2pcb2","slide":3,"name":"limit-panel","bbox":[880,390,330,125]}
+{"kind":"textbox","id":"sh/ozu1g7ux","slide":3,"name":"limit-formula","text":"√(M²X/M²Y)\n= 1.2549","textPreview":"√(M²X/M²Y) | = 1.2549","textChars":19,"textLines":2,"bbox":[905,412,280,82]}
+{"kind":"textbox","id":"sh/falkj2t0","slide":3,"name":"limit-conclusion","text":"推荐方案最大轴比 1.2563，距理论下限仅 0.0014。","textPreview":"推荐方案最大轴比 1.2563，距理论下限仅 0.0014。","textChars":30,"textLines":1,"bbox":[880,548,330,66]}
+{"kind":"chart","id":"ch/8nax0zy9","slide":3,"name":"","chartType":"line","bbox":[42,145,800,480]}
+{"kind":"notes","id":"nt/2dam48","slide":3,"text":"强调绿色曲线的平坦性：目标不是只在单点变圆，而是在220–250 mm焦区内控制最差轴比。\n\n[Sources]\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/source_d4sigma_consolidated.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/fit_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/design_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/model_curves.csv"}
+{"kind":"slide","id":"sl/hbptjp","slide":4,"title":"柱面镜改变焦散形状，但不会改善 M²","textShapes":6}
+{"kind":"textbox","id":"sh/yh8vqpcz","slide":4,"name":"slide-4-title","text":"柱面镜改变焦散形状，但不会改善 M²","textPreview":"柱面镜改变焦散形状，但不会改善 M²","textChars":18,"textLines":1,"bbox":[42,34,1185,72]}
+{"kind":"textbox","id":"sh/lkzu1kva","slide":4,"name":"slide-4-number","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[1178,660,52,20]}
+{"kind":"textbox","id":"sh/kjqdsfu5","slide":4,"name":"m2-subtitle","text":"M² 图中前后柱高相同；变化发生在 X 轴束腰与发散的重新分配。","textPreview":"M² 图中前后柱高相同；变化发生在 X 轴束腰与发散的重新分配。","textChars":32,"textLines":1,"bbox":[42,115,1180,45]}
+{"kind":"textbox","id":"sh/toje54vm","slide":4,"name":"waist-change","text":"X 束腰：891 → 643 µm","textPreview":"X 束腰：891 → 643 µm","textChars":17,"textLines":1,"bbox":[470,610,345,34]}
+{"kind":"textbox","id":"sh/8nadwzu1","slide":4,"name":"divergence-change","text":"X 发散：39.47 → 54.70 µm/mm","textPreview":"X 发散：39.47 → 54.70 µm/mm","textChars":24,"textLines":1,"bbox":[825,610,400,34]}
+{"kind":"textbox","id":"sh/vq1w7uds","slide":4,"name":"m2-exact-values","text":"M²X=2.6065 / M²Y=1.6552\n前后相同","textPreview":"M²X=2.6065 / M²Y=1.6552 | 前后相同","textChars":28,"textLines":2,"bbox":[55,595,350,52]}
+{"kind":"chart","id":"ch/7mpsbe1g","slide":4,"name":"","chartType":"bar","bbox":[42,185,390,405]}
+{"kind":"chart","id":"ch/6lgr29kv","slide":4,"name":"","chartType":"line","bbox":[470,185,755,405]}
+{"kind":"notes","id":"nt/hbptjp","slide":4,"text":"说明M²保持不变并不意味着光斑形状不变；薄柱面镜通过改变曲率重新分配束腰和发散。\n\n[Sources]\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/source_d4sigma_consolidated.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/fit_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/design_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/model_curves.csv"}
+{"kind":"slide","id":"sl/mcoevs","slide":5,"title":"在原焦点前 15.89 mm 加入 +50 mm 柱面镜","textShapes":12}
+{"kind":"textbox","id":"sh/zq587eho","slide":5,"name":"slide-5-title","text":"在原焦点前 15.89 mm 加入 +50 mm 柱面镜","textPreview":"在原焦点前 15.89 mm 加入 +50 mm 柱面镜","textChars":28,"textLines":1,"bbox":[42,34,1185,72]}
+{"kind":"textbox","id":"sh/0re90ji9","slide":5,"name":"slide-5-number","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[1178,660,52,20]}
+{"kind":"shape","id":"sh/1snq9ozu","slide":5,"name":"optical-axis","bbox":[90,325,1080,0]}
+{"kind":"shape","id":"sh/mtwr2t0f","slide":5,"name":"beam-upper-1","bbox":[170,245,350,50]}
+{"kind":"shape","id":"sh/nu58byh0","slide":5,"name":"beam-lower-1","bbox":[170,355,350,50]}
+{"kind":"shape","id":"sh/ove943il","slide":5,"name":"beam-upper-2","bbox":[520,295,330,30]}
+{"kind":"shape","id":"sh/9wnqdoz6","slide":5,"name":"beam-lower-2","bbox":[520,325,330,30]}
+{"kind":"shape","id":"sh/axwr6t0b","slide":5,"name":"beam-upper-3","bbox":[850,325,250,65]}
+{"kind":"shape","id":"sh/byp8fyhw","slide":5,"name":"beam-lower-3","bbox":[850,260,250,65]}
+{"kind":"shape","id":"sh/7a1ozmlk","slide":5,"name":"distance-bracket","bbox":[520,475,330,0]}
+{"kind":"shape","id":"sh/69s7qhkf","slide":5,"name":"x-power-arrow","bbox":[965,555,140,0]}
+{"kind":"shape","id":"sh/tc361w3q","slide":5,"name":"y-axis-line","bbox":[1035,495,0,120]}
+{"kind":"shape","id":"sh/sbapsr25","slide":5,"name":"existing-optics","bbox":[154,235,32,180]}
+{"kind":"shape","id":"sh/jm1ov2lo","slide":5,"name":"cylindrical-lens","bbox":[508,250,24,150]}
+{"kind":"shape","id":"sh/ils7mhk3","slide":5,"name":"focus-point","bbox":[839,314,22,22]}
+{"kind":"shape","id":"sh/58j6xc3u","slide":5,"name":"camera-scan","bbox":[1090,240,70,170]}
+{"kind":"textbox","id":"sh/knapo729","slide":5,"name":"existing-label","text":"现有上游\n聚焦光学","textPreview":"现有上游 | 聚焦光学","textChars":9,"textLines":2,"bbox":[95,170,155,60]}
+{"kind":"textbox","id":"sh/3il876ls","slide":5,"name":"lens-label","text":"+50 mm ZnSe\n10.6 µm AR","textPreview":"+50 mm ZnSe | 10.6 µm AR","textChars":22,"textLines":2,"bbox":[420,175,210,62]}
+{"kind":"textbox","id":"sh/2hc7y1kn","slide":5,"name":"lens-z-label","text":"镜片主平面\nz = 219.43 mm","textPreview":"镜片主平面 | z = 219.43 mm","textChars":19,"textLines":2,"bbox":[420,410,210,62]}
+{"kind":"textbox","id":"sh/edgr654v","slide":5,"name":"focus-label","text":"新焦区中心\nz ≈ 235.32 mm","textPreview":"新焦区中心 | z ≈ 235.32 mm","textChars":19,"textLines":2,"bbox":[755,175,205,62]}
+{"kind":"textbox","id":"sh/zypsza50","slide":5,"name":"distance-label","text":"15.89 mm","textPreview":"15.89 mm","textChars":8,"textLines":1,"bbox":[650,482,95,30]}
+{"kind":"textbox","id":"sh/0zy98fml","slide":5,"name":"camera-label","text":"相机扫描\nz = 220–250 mm","textPreview":"相机扫描 | z = 220–250 mm","textChars":19,"textLines":2,"bbox":[1030,165,190,62]}
+{"kind":"shape","id":"sh/107a1kn6","slide":5,"name":"orientation-panel","bbox":[905,485,310,165]}
+{"kind":"textbox","id":"sh/m1gba54r","slide":5,"name":"orientation-title","text":"镜片方向","textPreview":"镜片方向","textChars":4,"textLines":1,"bbox":[925,502,120,34]}
+{"kind":"shape","id":"sh/n2ps3alc","slide":5,"name":"orientation-x-visible","bbox":[940,578,85,0]}
+{"kind":"shape","id":"sh/o3itcfmx","slide":5,"name":"orientation-y-visible","bbox":[982,542,0,78]}
+{"kind":"shape","id":"sh/94ra5k3i","slide":5,"name":"orientation-cylinder-icon","bbox":[975,550,15,55]}
+{"kind":"textbox","id":"sh/25wryl4n","slide":5,"name":"x-orientation-label","text":"X：有光焦度","textPreview":"X：有光焦度","textChars":6,"textLines":1,"bbox":[1035,558,160,30]}
+{"kind":"textbox","id":"sh/365srq5s","slide":5,"name":"y-orientation-label","text":"Y：柱面母线 / 无光焦度","textPreview":"Y：柱面母线 / 无光焦度","textChars":13,"textLines":1,"bbox":[930,615,260,26]}
+{"kind":"textbox","id":"sh/50buxo7q","slide":5,"name":"coordinate-note","text":"坐标要求：z 必须沿用原 CSV 文件夹的机械零点；若装调平台零点不同，只保持镜片到焦区中心约 15.9 mm 的相对关系。","textPreview":"坐标要求：z 必须沿用原 CSV 文件夹的机械零点；若装调平台零点不同，只保持镜片到焦区中心约 15.9 mm 的相对关系。","textChars":62,"textLines":1,"bbox":[42,610,820,58]}
+{"kind":"notes","id":"nt/mcoevs","slide":5,"text":"光路实现：上游聚焦光学不变，在原焦点前加入正柱面镜，只给X方向增加会聚。\n\n[Sources]\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/source_d4sigma_consolidated.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/fit_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/design_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/model_curves.csv\n- https://www.lasercomponents.com/en/product/znse-lenses-for-co2-lasers/"}
+{"kind":"slide","id":"sl/yz8h31","slide":6,"title":"按三点复测和 ±1 mm 微调完成装调验收","textShapes":12}
+{"kind":"textbox","id":"sh/rm54fe50","slide":6,"name":"slide-6-title","text":"按三点复测和 ±1 mm 微调完成装调验收","textPreview":"按三点复测和 ±1 mm 微调完成装调验收","textChars":21,"textLines":1,"bbox":[42,34,1185,72]}
+{"kind":"textbox","id":"sh/cnel8j6l","slide":6,"name":"slide-6-number","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1178,660,52,20]}
+{"kind":"shape","id":"sh/donmhon6","slide":6,"name":"timeline-line","bbox":[105,305,1010,0]}
+{"kind":"shape","id":"sh/2hc329oj","slide":6,"name":"step-dot-1","bbox":[115,292,26,26]}
+{"kind":"textbox","id":"sh/3il4be54","slide":6,"name":"step-number-1","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[115,240,80,32]}
+{"kind":"textbox","id":"sh/4jul4j69","slide":6,"name":"step-title-1","text":"安装","textPreview":"安装","textChars":2,"textLines":1,"bbox":[115,345,300,48]}
+{"kind":"textbox","id":"sh/pknmdonu","slide":6,"name":"step-body-1","text":"+50 mm ZnSe\n镜片 z=219.43 mm\n有效口径 ≥10 mm","textPreview":"+50 mm ZnSe | 镜片 z=219.43 mm | 有效口径 ≥10 mm","textChars":38,"textLines":3,"bbox":[115,410,295,130]}
+{"kind":"shape","id":"sh/mdg3ed4n","slide":6,"name":"step-dot-2","bbox":[455,292,26,26]}
+{"kind":"textbox","id":"sh/nep4ny58","slide":6,"name":"step-number-2","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[455,240,80,32]}
+{"kind":"textbox","id":"sh/jaxojid8","slide":6,"name":"step-title-2","text":"定向","textPreview":"定向","textChars":2,"textLines":1,"bbox":[455,345,300,48]}
+{"kind":"textbox","id":"sh/y94nqdcn","slide":6,"name":"step-body-2","text":"柱面母线沿 Y\n有光焦度方向沿 X\n旋转至长轴最小","textPreview":"柱面母线沿 Y | 有光焦度方向沿 X | 旋转至长轴最小","textChars":25,"textLines":3,"bbox":[455,410,295,130]}
+{"kind":"shape","id":"sh/lcf6lsve","slide":6,"name":"step-dot-3","bbox":[795,292,26,26]}
+{"kind":"textbox","id":"sh/kb6psnut","slide":6,"name":"step-number-3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[795,240,80,32]}
+{"kind":"textbox","id":"sh/7exon2dk","slide":6,"name":"step-title-3","text":"复测与微调","textPreview":"复测与微调","textChars":5,"textLines":1,"bbox":[795,345,300,48]}
+{"kind":"textbox","id":"sh/6do7uxcz","slide":6,"name":"step-body-3","text":"复测 z=220 / 235 / 250\n镜片位置微调 ±1 mm\n最小化三区间最大轴比","textPreview":"复测 z=220 / 235 / 250 | 镜片位置微调 ±1 mm | 最小化三区间最大轴比","textChars":44,"textLines":3,"bbox":[795,410,295,130]}
+{"kind":"shape","id":"sh/tgf6psva","slide":6,"name":"acceptance-panel","bbox":[42,575,1170,72]}
+{"kind":"textbox","id":"sh/8f6pwnu5","slide":6,"name":"acceptance-text","text":"验收目标：220–250 mm 内最大椭圆率 ≤1.30；若明显超差，优先检查主轴旋转、z 零点、镜片焦距公差及截光。","textPreview":"验收目标：220–250 mm 内最大椭圆率 ≤1.30；若明显超差，优先检查主轴旋转、z 零点、镜片焦距公差及截光。","textChars":59,"textLines":1,"bbox":[68,594,1120,38]}
+{"kind":"notes","id":"nt/yz8h31","slide":6,"text":"建议用与原始CSV完全相同的D4σ算法复测，以避免算法口径变化造成伪改善。\n\n[Sources]\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/source_d4sigma_consolidated.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/fit_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/design_summary.csv\n- F:/CodexProjects/光斑图片/outputs/cylindrical_lens_d4sigma_20260810/model_curves.csv"}
